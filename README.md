@@ -14,7 +14,7 @@ At Naval Group, I develop a multi-agent simulation platform (Gazebo, ROS2, Unity
 
 - [Hybrid-EDMD](https://codeberg.org/julienprodhon/Hybrid-EDMD) — Parametric Koopman operator learning for PDEs (heat, wave, Kuramoto-Sivashinsky). Hybrid pipeline: PGD-based reduced-order data generation in MATLAB, neural-network Koopman model `K(μ)` trained in TensorFlow. CNRS@CREATE.
 - [Branching-Light-IPT](https://codeberg.org/julienprodhon/Branching-Light-IPT) — Simulation of light branching in weakly disordered random media, via both wave optics (split-step Fourier) and classical mechanics. MATLAB. IPT 2021 competition work.
-- [EKT](https://github.com/julienprodhon/EKT) — Extended Koopman's Theorem applied to the Hubbard dimer in the context of photoemission. Université de Toulouse.
+- [EKT-Hubbard-Dimer](https://codeberg.org/julienprodhon/ekt-hubbard-dimer) — Extended Koopman's Theorem applied to the Hubbard dimer in the context of photoemission. Université de Toulouse.
 
 ## Background
 
