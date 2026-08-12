@@ -10,7 +10,7 @@ Some of my Linux dev setup can be found in [archlinux-setup](https://codeberg.or
 
 At Naval Group, I develop a multi-agent simulation platform (Gazebo, ROS2, Unity) for Reinforcement Learning research.
 - [LOTUSim](https://github.com/naval-group/LOTUSim): Open-source real-time maritime simulation platform for multi-agent human-vehicle teaming. 
-- [LOTUSim-Xdyn](https://github.com/naval-group/LOTUSim-Xdyn): Xdyn physics integration layer for LOTUSim, providing high-fidelity hydrodynamics.
+- [lxdyn](https://github.com/naval-group/lxdyn): Xdyn physics integration layer for LOTUSim, providing high-fidelity hydrodynamics.
 
 ## Internship Projects
 
